@@ -29,4 +29,5 @@ int main() {
     }
 
     std::cout << dist[n] << std::endl;
+    
 }
